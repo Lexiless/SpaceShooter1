@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\90545\source\repos\space_shooter\main.cpp(165,19): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+  space_shooter.vcxproj -> C:\Users\90545\source\repos\space_shooter\x64\Debug\space_shooter.exe
